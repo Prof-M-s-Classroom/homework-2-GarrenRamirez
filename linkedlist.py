@@ -40,7 +40,6 @@ class LinkedList:
         self.length += 1
         return True
 
-
     def delfirst(self):
        if self.length == 0:
            return None
